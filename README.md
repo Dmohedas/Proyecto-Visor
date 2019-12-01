@@ -125,3 +125,4 @@ The report is published in `tests/aravis-{VERSION}-coverage/index.html`. Code co
 * Aravis 0.6 documentation: https://aravisproject.github.io/docs/aravis-0.6/
 * Blog: http://blogs.gnome.org/emmanuel/category/aravis/
 * Genicam standard : http://www.genicam.org
+# Proyecto-Visor
