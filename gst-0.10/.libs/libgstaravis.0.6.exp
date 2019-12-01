@@ -1,0 +1,4 @@
+gst_aravis_get_type
+gst_aravis_init_camera
+gst_aravis_stop
+gst_plugin_desc
